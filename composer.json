@@ -1,0 +1,8 @@
+{
+    "name": "magepsycho/easy_path_hints",
+    "type": "magento-module",
+    "version": "dev-master",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
